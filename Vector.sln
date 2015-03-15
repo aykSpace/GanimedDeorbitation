@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector", "Vector.vcxproj", "{BCC9CBB2-6D0A-4FA4-98C3-541B96384B81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest", "..\GoogleTest\GoogleTest.vcxproj", "{E5589DF3-951A-4444-9C9E-B275E3C004A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorTest", "VectorTest\VectorTest.vcxproj", "{D2EAEE57-4B03-42D0-998F-7A2F110E622E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC9CBB2-6D0A-4FA4-98C3-541B96384B81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCC9CBB2-6D0A-4FA4-98C3-541B96384B81}.Debug|Win32.Build.0 = Debug|Win32
+		{BCC9CBB2-6D0A-4FA4-98C3-541B96384B81}.Release|Win32.ActiveCfg = Release|Win32
+		{BCC9CBB2-6D0A-4FA4-98C3-541B96384B81}.Release|Win32.Build.0 = Release|Win32
+		{E5589DF3-951A-4444-9C9E-B275E3C004A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5589DF3-951A-4444-9C9E-B275E3C004A7}.Debug|Win32.Build.0 = Debug|Win32
+		{E5589DF3-951A-4444-9C9E-B275E3C004A7}.Release|Win32.ActiveCfg = Release|Win32
+		{E5589DF3-951A-4444-9C9E-B275E3C004A7}.Release|Win32.Build.0 = Release|Win32
+		{D2EAEE57-4B03-42D0-998F-7A2F110E622E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2EAEE57-4B03-42D0-998F-7A2F110E622E}.Debug|Win32.Build.0 = Debug|Win32
+		{D2EAEE57-4B03-42D0-998F-7A2F110E622E}.Release|Win32.ActiveCfg = Release|Win32
+		{D2EAEE57-4B03-42D0-998F-7A2F110E622E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

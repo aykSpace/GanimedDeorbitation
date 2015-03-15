@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Date_Time" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAABACAEIAAAAAAAAMDIAIAMAAgAAAEAgA=</HashCode>
+      <FileName>Date_Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spacecraft" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEICJAAAABCAoIyAQA0YQHQAABRhECAACEiMQBQA4g=</HashCode>
+      <FileName>Spacecraft.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAIAIACAAAAAAAIigICAEEgAACQQGRhMSREAAA=</HashCode>
+      <FileName>Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Atmosphera" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAQEAAQACgAACAAAAAAAAQAAAAEACEACKApjUJAAw=</HashCode>
+      <FileName>Atmosphera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroundStation" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BKhCEABQAEAAAACEgAAgAAABAAAAAIAAACAAAIAAAIA=</HashCode>
+      <FileName>GroundStation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyError" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAIgAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MyError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrbitElements" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oCEwCAABAARAQAAURAJAgAQQAgEBAMBAAUsABAQAQgA=</HashCode>
+      <FileName>OrbitElements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soyuz" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LSAAAAAAAAAAIAAAAAAACwAAAAAABAAQAIAAAgAAAAA=</HashCode>
+      <FileName>soyuz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZoneRadioVision" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCjBAIEAAAAAAQgASQAAQOABgBCUAYAgTAGANAA=</HashCode>
+      <FileName>ZoneRadioVision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
